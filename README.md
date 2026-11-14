@@ -8,6 +8,16 @@ FitTrack; günlük kalori ve makro takibini, su tüketimini, antrenman kayıtlar
 listesini tek bir arayüzde toplar. Kalori hedefleri MET ve Mifflin-St Jeor formülleriyle
 vücut ağırlığına göre hesaplanır.
 
+## Ekran Görüntüleri
+
+| Özet | Beslenme |
+|:--:|:--:|
+| <img src="screenshots/AnaEkran.png" width="260"> | <img src="screenshots/Beslenme.png" width="260"> |
+| **Aktivite** | **Vücut** |
+| <img src="screenshots/Aktivite.png" width="260"> | <img src="screenshots/Vucut.png" width="260"> |
+| **Antrenman** | **Hesaplama** |
+| <img src="screenshots/Antrenman.png" width="260"> | <img src="screenshots/Hesaplama.png" width="260"> |
+
 ## Özellikler
 
 | Sekme | Ne yapar |

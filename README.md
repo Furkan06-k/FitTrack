@@ -1,5 +1,7 @@
 # FitTrack
 
+[![Flutter CI](https://github.com/Furkan06-k/FitTrack/actions/workflows/flutter.yml/badge.svg)](https://github.com/Furkan06-k/FitTrack/actions/workflows/flutter.yml)
+
 **Flutter ile geliştirilmiş fitness, beslenme ve suplement takip uygulaması.**
 
 FitTrack; günlük kalori ve makro takibini, su tüketimini, antrenman kayıtlarını ve suplement
